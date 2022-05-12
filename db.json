@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Going to work",
+      "day": "first",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Going to eat",
+      "day": "first",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Going to sleep",
+      "day": "first",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "I am boomer",
+      "day": "first",
+      "reminder": false
+    }
+  ]
+}
